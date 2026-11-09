@@ -1,7 +1,7 @@
 {
- "version": "0.11.0",
- "datei": "kompass-0.11.0-opnsense.tar.gz",
- "sha256": "58ef9baf48c613415ebfa2a029443dd514326fa9a28cba7aee6b79d253689114",
+ "version": "0.12.0",
+ "datei": "kompass-0.12.0-opnsense.tar.gz",
+ "sha256": "40d7b317ca00eb9a3f20c2e96434c0a524fd4b1e927888a89aa3e2247b377868",
  "datum": "2026-11-09",
- "hinweis": "Neu: Startseite „Übersicht“ mit Netzkarte, Szenen (z. B. Nachtruhe mit einem Tipp), Favoriten und Gerätesymbolen. Enthält alles aus 0.9/0.10: Datenverbrauch, 19 Stile, Schnellsuche, Block-NAS-Schalter, Pause wirkt sofort, NAS-Sicherung."
+ "hinweis": "Neu: Netze → „+ Neues Netz“ legt ein VLAN mit allem an (Schnittstelle, DHCP, Regeln, Weg ins Internet) und entfernt es auch wieder. Enthält alles ab 0.9 (Übersicht, Verbrauch, Stile, Szenen …)."
 }
