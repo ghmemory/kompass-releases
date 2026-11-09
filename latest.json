@@ -1,0 +1,7 @@
+{
+ "version": "0.7.0",
+ "datei": "kompass-0.7.0-opnsense.tar.gz",
+ "sha256": "a8cff22b31f3bbc4a0cfd8e284ceede2d7bee9a6b75257ff7b3f6c96492ec4ce",
+ "datum": "2026-11-09",
+ "hinweis": "VPN-Tab: Tunnel aus Proton-Datei anlegen, Schlüssel/Server tauschen, ein/aus, löschen. NAT je Tunnel durch Kompass, feste DHCP-Adresse per Klick, wöchentliche Pausen, aufgeräumte Geräteliste. Für den VPN-Tab zwei Rechte setzen: VPN: WireGuard: Configuration und Interfaces: Assign network ports."
+}
