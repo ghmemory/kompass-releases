@@ -1,7 +1,7 @@
 {
- "version": "0.10.0",
- "datei": "kompass-0.10.0-opnsense.tar.gz",
- "sha256": "c2be391713c1f9847041cda5953afef7c5d639a3b6872ad71a1c97557d594331",
+ "version": "0.11.0",
+ "datei": "kompass-0.11.0-opnsense.tar.gz",
+ "sha256": "58ef9baf48c613415ebfa2a029443dd514326fa9a28cba7aee6b79d253689114",
  "datum": "2026-11-09",
- "hinweis": "Neu: Pause wirkt sofort (laufende Streams brechen ab), Verbrauch je Netz mit Vergleich zum Vormonat, Sicherung zusätzlich auf dem NAS (Mehr → Sicherung). Enthält 0.9: Datenverbrauch, 19 Stile, Schnellsuche, Schalter Block NAS Internet."
+ "hinweis": "Neu: Startseite „Übersicht“ mit Netzkarte, Szenen (z. B. Nachtruhe mit einem Tipp), Favoriten und Gerätesymbolen. Enthält alles aus 0.9/0.10: Datenverbrauch, 19 Stile, Schnellsuche, Block-NAS-Schalter, Pause wirkt sofort, NAS-Sicherung."
 }
