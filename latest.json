@@ -1,7 +1,7 @@
 {
- "version": "0.8.0",
- "datei": "kompass-0.8.0-opnsense.tar.gz",
- "sha256": "914a9fcbfe8afc3a88a650ccb8c05086ef24c086de926b27baf6fd494d0c4526",
+ "version": "0.9.0",
+ "datei": "kompass-0.9.0-opnsense.tar.gz",
+ "sha256": "76a22b56495c7705b11d1891e2bb12f62741c993f749f249d6251305ecaea135",
  "datum": "2026-11-09",
- "hinweis": "Geräte direkt am VPN-Tunnel zuordnen, Import aus WireGuard-Datei, Internet mit Zeitlimit (Gastzugang), Push-Meldung bei neuen Geräten (über Home Assistant), Systemprüfung nach OPNsense-Updates, eigenes Zertifikat. WICHTIG: Nach dem Update zeigt der Browser einmal eine neue Zertifikatswarnung – Seite neu laden, Warnung bestätigen, dann Mehr → Zertifikat."
+ "hinweis": "Neu: Datenverbrauch je Gerät (Tab „Verbrauch“ – braucht einmalig das Recht „Diagnostics: Show States“ für kompass-api, Anleitung steht dort), 19 Stile unter Mehr → Aussehen, Schnellsuche mit ⌘K."
 }
