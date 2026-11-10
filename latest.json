@@ -1,7 +1,7 @@
 {
- "version": "0.12.0",
- "datei": "kompass-0.12.0-opnsense.tar.gz",
- "sha256": "40d7b317ca00eb9a3f20c2e96434c0a524fd4b1e927888a89aa3e2247b377868",
- "datum": "2026-11-09",
- "hinweis": "Neu: Netze → „+ Neues Netz“ legt ein VLAN mit allem an (Schnittstelle, DHCP, Regeln, Weg ins Internet) und entfernt es auch wieder. Enthält alles ab 0.9 (Übersicht, Verbrauch, Stile, Szenen …)."
+ "version": "0.12.1",
+ "datei": "kompass-0.12.1-opnsense.tar.gz",
+ "sha256": "ccc98883c2a90e0194ba22ef9507bcc2930020b0c37d29e66575f5ac48a68e19",
+ "datum": "2026-11-10",
+ "hinweis": "Netze-Assistent: DHCP-Bereich von/bis oder DHCP aus, alle Netzgrößen /8 bis /30, Prüfung des Namens schon beim Tippen. Behoben: VLAN-Nummern über 254 bekamen keinen bzw. einen falschen Adressbereich."
 }
