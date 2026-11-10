@@ -1,7 +1,7 @@
 {
- "version": "0.12.1",
- "datei": "kompass-0.12.1-opnsense.tar.gz",
- "sha256": "ccc98883c2a90e0194ba22ef9507bcc2930020b0c37d29e66575f5ac48a68e19",
+ "version": "0.13.0",
+ "datei": "kompass-0.13.0-opnsense.tar.gz",
+ "sha256": "b2b9d1d2eb4538744f773644bba74e794579d90b220dc680c515d050f43e4f45",
  "datum": "2026-11-10",
- "hinweis": "Netze-Assistent: DHCP-Bereich von/bis oder DHCP aus, alle Netzgrößen /8 bis /30, Prüfung des Namens schon beim Tippen. Behoben: VLAN-Nummern über 254 bekamen keinen bzw. einen falschen Adressbereich."
+ "hinweis": "Neu: DNS-Filter je Netz (Werbung, Tracker, Schadseiten) mit Umgehungsschutz, „Warum geht X nicht?“ auf der Geräteseite, feste Adresse mit eigenem Namen, Netze bearbeiten, Hinweise bei VPN-Störung und OPNsense-Update. Für DNS-Filter/Umgehungsschutz zwei neue Rechte nötig (siehe Systemprüfung)."
 }
