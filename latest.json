@@ -1,7 +1,7 @@
 {
- "version": "0.13.0",
- "datei": "kompass-0.13.0-opnsense.tar.gz",
- "sha256": "b2b9d1d2eb4538744f773644bba74e794579d90b220dc680c515d050f43e4f45",
- "datum": "2026-11-10",
- "hinweis": "Neu: DNS-Filter je Netz (Werbung, Tracker, Schadseiten) mit Umgehungsschutz, „Warum geht X nicht?“ auf der Geräteseite, feste Adresse mit eigenem Namen, Netze bearbeiten, Hinweise bei VPN-Störung und OPNsense-Update. Für DNS-Filter/Umgehungsschutz zwei neue Rechte nötig (siehe Systemprüfung)."
+ "version": "0.13.1",
+ "datei": "kompass-0.13.1-opnsense.tar.gz",
+ "sha256": "226522594b2ff0fbadf1667fae790c7887adb1750bc6e34438d40fb35e1dbf3c",
+ "datum": "2026-11-11",
+ "hinweis": "Neu: bereinigter, rein lesender Routerauszug zum Weitergeben (Befehl in der README). Sonst unverändert zu 0.13.0."
 }
