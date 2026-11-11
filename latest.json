@@ -1,7 +1,7 @@
 {
- "version": "0.13.2",
- "datei": "kompass-0.13.2-opnsense.tar.gz",
- "sha256": "c4c83513c2ba67ff6d220222a76e4f146523fa481f9493fcbed365f6160ec516",
+ "version": "0.14.0",
+ "datei": "kompass-0.14.0-opnsense.tar.gz",
+ "sha256": "802a09cd0c99d25be1cc3636abf15ee38f7deac4ec6a195f425425bd62696509",
  "datum": "2026-11-11",
- "hinweis": "Korrektur: „Freigeben“ erscheint nur noch, wenn ein Kompass-Filter blockiert hat; Sperren durch eigene OPNsense-Filter werden als solche angezeigt. Routerauszug verbessert."
+ "hinweis": "Neu: eigene OPNsense-DNS-Filter übernehmen (Freigeben, Ein/Aus), feste Adressen ohne Namen benennen, ausgeschaltete Regeln aufräumen (mit Papierkorb). Keine neuen Rechte nötig."
 }
