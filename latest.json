@@ -1,7 +1,7 @@
 {
- "version": "0.14.0",
- "datei": "kompass-0.14.0-opnsense.tar.gz",
- "sha256": "802a09cd0c99d25be1cc3636abf15ee38f7deac4ec6a195f425425bd62696509",
+ "version": "0.15.0",
+ "datei": "kompass-0.15.0-opnsense.tar.gz",
+ "sha256": "367e0593076ad3c895e8ffcdf8654c5d2fae4787dc426f8562e9ea2c2d63052d",
  "datum": "2026-11-11",
- "hinweis": "Neu: eigene OPNsense-DNS-Filter übernehmen (Freigeben, Ein/Aus), feste Adressen ohne Namen benennen, ausgeschaltete Regeln aufräumen (mit Papierkorb). Keine neuen Rechte nötig."
+ "hinweis": "Neu: Prüfbericht mit einem Befehl (Testlauf mit Aufräumen, VPN-Leck-Prüfung, Konfig-Check) und Ausfallschutz für übernommene VPN-Regeln. Keine neuen Rechte nötig."
 }
