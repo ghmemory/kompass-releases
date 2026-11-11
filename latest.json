@@ -1,7 +1,7 @@
 {
- "version": "0.13.1",
- "datei": "kompass-0.13.1-opnsense.tar.gz",
- "sha256": "226522594b2ff0fbadf1667fae790c7887adb1750bc6e34438d40fb35e1dbf3c",
+ "version": "0.13.2",
+ "datei": "kompass-0.13.2-opnsense.tar.gz",
+ "sha256": "c4c83513c2ba67ff6d220222a76e4f146523fa481f9493fcbed365f6160ec516",
  "datum": "2026-11-11",
- "hinweis": "Neu: bereinigter, rein lesender Routerauszug zum Weitergeben (Befehl in der README). Sonst unverändert zu 0.13.0."
+ "hinweis": "Korrektur: „Freigeben“ erscheint nur noch, wenn ein Kompass-Filter blockiert hat; Sperren durch eigene OPNsense-Filter werden als solche angezeigt. Routerauszug verbessert."
 }
